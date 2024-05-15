@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="add_element">Add Element</string>
+    <string name="remove_element">Remove Element</string>
+    <string name="it_looks_like_you_ve_provided_an_xml_snippet_defining_a_shape_drawable_in_android_this_shape_has_rounded_corners_and_a_gradient_background_that_starts_from_white_and_ends_at_a_shade_of_red_the_gradient_s_center_point_is_positioned_vertically_at_150">It looks like you\'ve provided an XML snippet defining a shape drawable in Android. This shape has rounded corners and a gradient background that starts from white and ends at a shade of red. The gradient\'s center point is positioned vertically at 150.</string>
+</resources>
